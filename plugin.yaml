@@ -1,0 +1,6 @@
+name: openai-compatible-image-gen
+version: 0.1.0
+manifest_version: 1
+description: "OpenAI-compatible image generation backend for Hermes Agent. Calls /v1/images/generations with gpt-image-2 and caches generated images locally."
+author: Bot1822
+kind: backend
